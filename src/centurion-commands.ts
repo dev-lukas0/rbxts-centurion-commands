@@ -1,4 +1,4 @@
-import { Ban } from "./cmds/bring";
+import { Ban } from "./cmds/ban";
 import { Kick } from "./cmds/kick";
 
 export namespace CenturionCommands {
