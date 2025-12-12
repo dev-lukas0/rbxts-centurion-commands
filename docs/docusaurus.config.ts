@@ -24,6 +24,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'dev-lukas0',
   projectName: 'rbxts-centurion-commands',
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
 
